@@ -8,6 +8,8 @@ Esse projeto faz parte da primeira açāo do grupo de estudo de Mobile do WWcode
 
 Site Responsivo da convençāo do DMLA ( Distrito múltiplo LA - Clubes de Lions da regiões do Norte e Nordeste) onde os participantes do evento poderāo realizar as incrições pelo site e a comissāo organizadora irá gerar relatórios dos inscritos.
 
+Protótipo do Projeto: https://ninjastorage.blob.core.windows.net/html/1QG2S/index.html#184aadb7-2229-b36b-2e8e-20df4a3a9a50
+
 Requisitos do projeto.
 
 
