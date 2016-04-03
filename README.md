@@ -1,5 +1,12 @@
+
 # projetolions
-Estamos desenvolvendo sistema web para realizar inscrição dos membros da convenção do distrito múltiplo LA do Lions uma das maiores organizações internacional de clubes de serviço do mundo, voltada para serviços humanitários.
+Estamos desenvolvendo sistema web para realizar inscrição dos membros da convenção do distrito múltiplo LA do Lions uma das maiores organizações internacional de clubes de serviço do mundo, voltada para serviços humanitários. 
+
+o Projeto: 
+
+Esse projeto faz parte da primeira açāo do grupo de estudo de Mobile do WWcode Recife onde o objetivo é desenvolver soluções para organizações sem fins lucrativos para ajudar na divulgaçāo de suas açoes, sendo também uma grande oportunidade das meninas do grupo participar de um projeto real enquanto estāo aprendendo a programar. 
+
+Site Responsivo da convençāo do DMLA ( Distrito múltiplo LA - Clubes de Lions da regiões do Norte e Nordeste) onde os participantes do evento poderāo realizar as incrições pelo site e a comissāo organizadora irá gerar relatórios dos inscritos.
 
 Requisitos do projeto.
 
@@ -18,7 +25,7 @@ Requisitos do projeto.
 
 * Se é Companheiro de Melvin Jones
 
-2) Site Responsivo da convençāo do DMLA ( Distrito múltiplo LA - Clubes de Lions da regiões do Norte e Nordeste) onde os participantes do evento poderāo realizar as incrições pelo site e a comissāo organizadora irá gerar relatórios dos inscritos.
+2) 
 
 Gerar Relatórios
 
@@ -43,5 +50,17 @@ Gerar Relatórios
 * Com Nome / Clube / Distrito dos Delegados Natos. Na ordem alfabética. Espaço duplo entre os nomes e campo para colher assinatura, com tracejado. Será usado pelo Comitê de Eleições como Folha de Votação.
 
 * Com Nome / Clube / Distrito dos Delegados. Uma relação para cada Clube. Nomes na ordem alfabética. Espaço duplo entre os nomes e campo para colher assinatura, com tracejado. Será usado pelo Comitê de Eleições como Folha de Votação.
+* 
+
+Prazo de Entrega: 5 de Maio
+
+Público - Alvo: Membros do lions clube do DMLA
+
+Tecnologias Front-End:HTML, CSS, Javascript, Twitter Bootstrap.
+
+Tecnologia Back-End: PHP, MYSQL.
+
+Autores: Karina Machado, Veridiane Melo, Luciana Cunha,Simone Amorim,Luciana Cunha, Maria Clara Ferraz, Isabela Isis, Willany Silva.
+
     
 
