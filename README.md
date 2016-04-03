@@ -60,7 +60,7 @@ Tecnologias Front-End:HTML, CSS, Javascript, Twitter Bootstrap.
 
 Tecnologia Back-End: PHP, MYSQL.
 
-Autores: Karina Machado, Veridiane Melo, Luciana Cunha,Simone Amorim,Luciana Cunha, Maria Clara Ferraz, Isabela Isis, Willany Silva.
+Autores: Karina Machado, Veridiane Melo, Luciana Cunha,Simone Amorim, Maria Clara Ferraz, Isabela Isis e Willany Silva.
 
     
 
